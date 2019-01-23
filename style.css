@@ -3,7 +3,9 @@ html, body {
 	margin: 0;
 	overflow: hidden;
 	
-	background: #6e34a4;
+	/* background: #6e34a4; */
+	background: rgb(255,75,75);
+	background: linear-gradient(90deg, rgba(255,75,75,1) 0%, rgba(200,0,0,1) 31%, rgba(255,0,0,1) 90%);
 	color: white;
 }
 
